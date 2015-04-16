@@ -1,7 +1,7 @@
 # SpamFilter
 Bayesian Spam Filter to organize Spam and Ham
 
-spam.py
+#spam.py
 This script will create 2 dictionaries utilizing the two provided test cases “learning_ham” and “learning_spam”. After creating the two dictionaries, the script will then create two files titled “outputHam.txt” and “outputSpam.txt” which contains the total number of words matched for all data sets, a list of all the words, their frequencies, P(word|spam or ham), and P(spam or ham|word). 
 
 To use this script, ensure that learning datasets are in the current directory, then on the command line type: 
